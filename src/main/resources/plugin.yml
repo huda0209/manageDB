@@ -1,0 +1,8 @@
+name: ManageDB
+version: '${version}'
+main: com.github.huda0209.managedb.ManageDB
+api-version: 1.13
+prefix: ManageDB
+authors: [ huda0209 ]
+description: aaa
+website: github
